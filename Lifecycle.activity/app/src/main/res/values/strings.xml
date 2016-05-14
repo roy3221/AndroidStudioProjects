@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lifecycle.activity</string>
+    <string-array name="operating_systems">
+        <item >Ubuntu</item>
+        <item >Android</item>
+        <item >iOS</item>
+    </string-array>
+</resources>
